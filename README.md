@@ -1,2 +1,2 @@
 # Predictive-Maintainance-of-Machinery
-For detailed explanation refer txt file
+For detailed explanation refer doc file
